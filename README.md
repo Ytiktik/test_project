@@ -1,8 +1,7 @@
 # test_project
 
-This file holds a single piece of information but its coded. 
-if 3 + 5 = 8:
-  The information is SGVsbG8gV29ybGQ=
-if 3 + 5 = 9:
-The information is SGVsbG8ZZV29ybGQ
+This file holds a single piece of information that changes daily based on the temperature in new york 
+if today was a cold day (less than 15 degrees celsius) the true information is 
+Hey!
+Otherwise it is Obamas first word in his inaguration speech
   
